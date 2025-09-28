@@ -1,5 +1,6 @@
 # 💫 About Me:
-![Anya Forger](./anya.png)
+<img src="https://i.imgur.com/dyK7p0l.png" alt="Anya Forger" width="250"/>
+
 
 
 Hey there! 👋 I’m a first-year Computer Science student currently training like a young Avenger 🦸‍♀️ — building skills, solving problems, and preparing for bigger missions (projects).
