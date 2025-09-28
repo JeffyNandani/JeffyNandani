@@ -1,10 +1,12 @@
 # 💫 About Me:
+<img src="IMAGE_URL" alt="Anya" width="250"/>
 
 Hey there! 👋 I’m a first-year Computer Science student currently training like a young Avenger 🦸‍♀️ — building skills, solving problems, and preparing for bigger missions (projects).
 I code in **C++** and **Python**, and like Tony Stark said: *"Sometimes you gotta run before you can walk."* 🚀
 My GitHub is my Stark Lab 🛠️ — experiments, projects, and a little chaos.
 
 Let’s assemble and build something awesome together! 💥
+
 
 ## 🌐 Socials:
 
