@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://i.imgur.com/dyK7p0l.png" alt="Anya Forger" width="250"/>
+<img src="./anya.png" alt="Anya Forger" width="250"/>
 
 
 
