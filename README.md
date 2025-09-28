@@ -1,5 +1,6 @@
 # 💫 About Me:
-![Anya Forger taking notes](https://tenor.com/view/anya-forger-taking-notes-oomfie-spy-x-family-memo-gif-8287618218761733944)
+<img src="https://tenor.com/view/anya-forger-taking-notes-oomfie-spy-x-family-memo-gif-8287618218761733944" alt="Anya Forger Taking Notes" width="300"/>
+
 
 
 
