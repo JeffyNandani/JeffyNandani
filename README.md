@@ -1,15 +1,12 @@
 # 💫 About Me:
-<img src="https://tenor.com/view/anya-forger-taking-notes-oomfie-spy-x-family-memo-gif-8287618218761733944" alt="Anya Forger Taking Notes" width="300"/>
+<img src="https://media.tenor.com/FcA6c_gYIYkAAAAC/anya-forger-taking-notes.gif" alt="Anya Forger Taking Notes" width="300"/>
 
-
-
-
-
-Hey there! 👋 I’m a first-year Computer Science student currently training like a young Avenger 🦸‍♀️ — building skills, solving problems, and preparing for bigger missions (projects).
-I code in **C++** and **Python**, and like Tony Stark said: *"Sometimes you gotta run before you can walk."* 🚀
-My GitHub is my Stark Lab 🛠️ — experiments, projects, and a little chaos.
+Hey there! 👋 I’m a first-year Computer Science student currently training like a young Avenger 🦸‍♀️ — building skills, solving problems, and preparing for bigger missions (projects).  
+I code in **C++** and **Python**, and like Tony Stark said: *"Sometimes you gotta run before you can walk."* 🚀  
+My GitHub is my Stark Lab 🛠️ — experiments, projects, and a little chaos.  
 
 Let’s assemble and build something awesome together! 💥
+
 
 
 ## 🌐 Socials:
