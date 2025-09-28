@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://i.pinimg.com/736x/0d/0d/59/0d0d5963b03e42614bf7867919e97201.jpg
+<img src="https://i.pinimg.com/736x/0d/0d/59/0d0d5963b03e42614bf7867919e97201.jpg"
   height=100
   width=100">
 
