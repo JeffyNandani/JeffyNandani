@@ -1,5 +1,6 @@
 # 💫 About Me:
-<img src="https://media.tenor.com/FcA6c_gYIYkAAAAC/anya-forger-taking-notes.gif" alt="Anya Forger Taking Notes" width="300"/>
+![Anya Forger Taking Notes](https://media.tenor.com/FcA6c_gYIYkAAAAC/anya-forger-taking-notes.gif)
+
 
 Hey there! 👋 I’m a first-year Computer Science student currently training like a young Avenger 🦸‍♀️ — building skills, solving problems, and preparing for bigger missions (projects).  
 I code in **C++** and **Python**, and like Tony Stark said: *"Sometimes you gotta run before you can walk."* 🚀  
