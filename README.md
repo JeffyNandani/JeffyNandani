@@ -1,5 +1,7 @@
 # 💫 About Me:
-<img src="https://i.pinimg.com/736x/0d/0d/59/0d0d5963b03e42614bf7867919e97201.jpg">
+<img src="https://i.pinimg.com/736x/0d/0d/59/0d0d5963b03e42614bf7867919e97201.jpg"
+  height=100
+  width=100>
 
 Hey there! 👋 I’m a first-year Computer Science student currently training like a young Avenger 🦸‍♀️ — building skills, solving problems, and preparing for bigger missions (projects).  
 I code in **C++** and **Python**, and like Tony Stark said: *"Sometimes you gotta run before you can walk."* 🚀  
