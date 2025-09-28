@@ -17,4 +17,32 @@ Let’s assemble and build something awesome together! 💥
 
 ### 🚀 Languages (Superpowers Unlocked):
 
-![C++]([https://img.shields.io/badge/C++-00599C?s](https://img.shields.io/badge/C++-00599C?s)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+### 🛠️ Tools & Frameworks (Gadgets & Armor):
+
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### 🎨 Design (Illusions like Doctor Strange ✨):
+
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobe%20photoshop\&logoColor=white)
+
+# 📊 GitHub Stats (Battle Reports 📝):
+
+![](https://github-readme-stats.vercel.app/api?username=JeffyNandani\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JeffyNandani\&theme=dark\&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffyNandani\&theme=dark\&hide_border=true\&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=JeffyNandani\&icon=5\&color=6)](https://visitcount.itsvg.in)
+
+> *"I can do this all day."* – Captain America 🛡️
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
