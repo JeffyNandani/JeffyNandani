@@ -35,6 +35,7 @@ Heyyy devss, Nandani here, 19 from India and my life revolves around problems an
 
 
   <a href="https://instagram.com/nandani._.dusad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandani._.dusad" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nandani-d-44430a362/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Nandani Dusad" height="30" width="40" /></a>
 
   </p>
 </details>
