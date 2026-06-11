@@ -91,4 +91,10 @@ Heyyy devss, Nandani here, 19 from India and my life revolves around problems an
 <td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
 </tr>
 </table>
+<table>
+<tr>
+<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
+<td><img align="" width="" alt="🦑" src="/nichijou-anime-brasil (1).gif"></td>
+</tr>
+</table>
 
