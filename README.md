@@ -26,21 +26,10 @@ textgnt.com, textgif.com for Animated Text GIFS.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=more+things+about+krish+%3A-P)](https://git.io/typing-svg)
 
 
-yo devs, Krish Lalwani here, 19 from India and my life revolves around a small circle of anime, programming and a lot of games. I mainly focus in Machine learning, Cybersecurity, Android studio and Web development while i am still learning Game development and some complex cryptography algorithms as of 2025, since you opened up this About section, below are the fun things that you can try :-P
+Heyyy devss, Nandani here, 19 from India and my life revolves around problems and solutions, programming and a lot of games. I mainly focus in Open Source, Web dev, Data structures and algorithms while I am still learning Game development and some complex cryptography algorithms as of 2026, since you opened up this About section, below are the fun things that you can try (˶˃ ᵕ ˂˶)
 
 <br/>
-<details>
-  <summary>Chat Box</summary>
-</br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=435&lines=krish+likes+to+chat+%3A-P)](https://git.io/typing-svg)
- 
-<p align="left">You can discuss about anything in my
-  <a href="https://gist.github.com/krishealty/4fe7c331510b167f918ad600083e4827">Chat Box.
-  </a>
-</p>
-
-</details>
 
 <!-- connect folder -->
 <div align="left">
@@ -51,7 +40,7 @@ yo devs, Krish Lalwani here, 19 from India and my life revolves around a small c
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=435&lines=krish+would+love+to+connect+%3A-P)](https://git.io/typing-svg)
  
   <p align="left">
-  <a href="https://codepen.io/krishlalwani0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krishlalwani0" height="30" width="40" /></a>
+
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20447149/krish-lalwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20447149/krish-lalwani" height="30" width="40" /></a>
   <a href="https://codesandbox.com/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="krishealty" height="30" width="40" /></a>
   <a href="https://dev.to/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishealty" height="30" width="40" /></a>
@@ -67,147 +56,35 @@ yo devs, Krish Lalwani here, 19 from India and my life revolves around a small c
 <summary>Skills</summary>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=550&lines=krish+wants+to+learn+new+skills+everyday+%3A-P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=550&lines=Nandani+wants+to+learn+new+skills+everyday+❀)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,blender,apple,c,cpp,rust,django,flutter,git,go,gradle,kotlin,java,scss,linux,mysql,lua,swift,php,bash,py,react,ruby,tensorflow,unreal,unity,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,docker,git,py,react)](https://skillicons.dev)
 
 </details>
 </div>
 <br/>
 
 ```
-
-
-     |\_/|                  
-     | @ @   Woof, GitDog!
-     |   <>              _  
-     |  _/\------____ ((| |))
-     |               `--' |   
- ____|_       ___|   |___.' 
-/_/_____/____/_______|
-
-
+⠀⠀⠀⢸⣦⡀⠀⠀⠀⠀⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⣏⠻⣶⣤⡶⢾⡿⠁⠀⢠⣄⡀⢀⣴⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣀⣼⠷⠀⠀⠁⢀⣿⠃⠀⠀⢀⣿⣿⣿⣇⠀⠀⠀⠀GitStarss!!⠀⠀
+⠴⣾⣯⣅⣀⠀⠀⠀⠈⢻⣦⡀⠒⠻⠿⣿⡿⠿⠓⠂⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⢻⡇⣤⣾⣿⣷⣿⣿⣤⠀⠀⣿⠁⠀⠀⠀⢀⣴⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠸⣿⡿⠏⠀⢀⠀⠀⠿⣶⣤⣤⣤⣄⣀⣴⣿⡿⢻⣿⡆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠟⠁⠀⢀⣼⠀⠀⠀⠹⣿⣟⠿⠿⠿⡿⠋⠀⠘⣿⣇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢳⣶⣶⣿⣿⣇⣀⠀⠀⠙⣿⣆⠀⠀⠀⠀⠀⠀⠛⠿⣿⣦⣤⣀⠀⠀
+⠀⠀⠀⠀⠀⠀⣹⣿⣿⣿⣿⠿⠋⠁⠀⣹⣿⠳⠀⠀⠀⠀⠀⠀⢀⣠⣽⣿⡿⠟⠃
+⠀⠀⠀⠀⠀⢰⠿⠛⠻⢿⡇⠀⠀⠀⣰⣿⠏⠀⠀⢀⠀⠀⠀⣾⣿⠟⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⣰⣿⣿⣾⣿⠿⢿⣷⣀⢀⣿⡇⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠉⠁⠀⠀⠀⠀⠙⢿⣿⣿⠇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀
 
 ```
 
-<br/> 
-<img src="src/dino.gif">
-
-Do you wanna play the [Dino game](https://krishealty.github.io/T-Rex-runner/)?
 
 <br/>
 
-<details>
-<summary>GIFs</summary>
-<br/>
-<div align=center>
-<img src="src/manga.gif">
-Well i love working on making Manga and Anime web designs, graphics and cool stuff from html, css and java in my free time 'cause i love it hehe. Wait, Did i say i love mangas? OH YES I DID!
-<br/>
-<img src="src/anime.gif">
-
-Hit me up on [Instagram](https://instagram.com/krishealty) if you wanna watch some good anime together.
-
-Everything is painful, but do you know what's the most painful thing in the world???
-<img src="src/gamefps.gif">
-<br/>
-
-<img src="src/black-hole.gif">
-
-Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.pinterest.de/krishealty/extraterrestrial-realm) to check out my enthusiasm towards space.
-
-<br/>
-<p align="center">
-<img width="100%" src="src/m1.gif">
-</p>
-<p align="center">
-<img width="100%" src="src/m2.gif">
-</p>
-<p align="center">
-<img width="10%" src="src/c1.gif">
-<img width="10%" src="src/c2.gif">
-<img width="10%" src="src/c3.gif">
-<img width="10%" src="src/c4.gif">
-<img width="10%" src="src/c15.gif">
-<img width="10%" src="src/c16.gif">
-<img width="10%" src="src/c17.gif">
-<img width="10%" src="src/c18.gif">
-<img width="10%" src="src/c5.gif">
-</p>
-<p align="center">
-<img width="10%" src="src/c23.gif">
-<img width="10%" src="src/c24.gif">
-<img width="10%" src="src/c25.gif">
-<img width="10%" src="src/c26.gif">
-<img width="10%" src="src/c27.gif">
-<img width="10%" src="src/c28.gif">
-<img width="10%" src="src/c29.gif">
-<img width="10%" src="src/c30.gif">
-<img width="10%" src="src/c31.gif">
-</p>
-
-<p align="center">
-<img width="10%" src="src/c11.gif">
-<img width="10%" src="src/c12.gif">	
-<img width="50%" src="src/textgif.gif">
-<img width="10%" src="src/c13.gif">
-<img width="10%" src="src/c14.gif">
-</p>
-<p align="center">
-<img width="10%" src="src/c6.gif">
-<img width="10%" src="src/c7.gif">
-<img width="10%" src="src/c8.gif">
-<img width="10%" src="src/c9.gif">
-<img width="10%" src="src/c10.gif">
-<img width="10%" src="src/c19.gif">
-<img width="10%" src="src/c20.gif">
-<img width="10%" src="src/c21.gif">
-<img width="10%" src="src/c22.gif">
-</p>
-<p align="center">
-<img width="10%" src="src/c32.gif">
-<img width="10%" src="src/c33.gif">
-<img width="10%" src="src/c34.gif">
-<img width="10%" src="src/c35.gif">
-<img width="10%" src="src/c36.gif">
-<img width="10%" src="src/c37.gif">
-<img width="10%" src="src/c38.gif">
-<img width="10%" src="src/c39.gif">
-<img width="10%" src="src/c40.gif">
-</p>
-<p align="center">
-<img width="100%" src="src/m3.gif">
-</p>
-<p align="center">
-<img width="100%" src="src/m4.gif">
-</p>
-
-<br/>
-
-<details>
-<summary>Mind Hypnosis</summary>
-<img src="src/mindwave.gif">
-	
-<br/><br/>
-
-If you've been on this for a while, i bet that you would've experiencing problems while sleeping (average programmer things), well if yes then don't worry pal, i got you. Scroll this tab and watch every GIF for 10 seconds, it'll help you sleep (simple mind altering techniques)
-<br/><br/>
-<img src="src/sleepy1.gif">
-<img src="src/sleepy2.gif">
-<img src="src/sleepy3.gif">
-<img src="src/sleepy4.gif">
-<img src="src/sleepy5.gif">
-<img src="src/sleepy6.gif">
-<img src="src/sleepy7.gif">
-<img src="src/sleepy8.gif">
-<img src="src/sleepy9.gif">
-<img src="src/sleepy10.gif">
-</details>
-  </div>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</details>
 </details>
 
 <!-- stats folder -->
@@ -215,7 +92,7 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <summary>Stats</summary>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=krish+does+many+things+%3A-P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=Nandani+does+many+things+%3A-P)](https://git.io/typing-svg)
  
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table width="2000">
