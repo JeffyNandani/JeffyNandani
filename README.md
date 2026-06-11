@@ -17,7 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=more+things+about+Nandani+%3A-P)](https://git.io/typing-svg)
 
 
-Heyyy devss, Nandani here, 19 from India and my life revolves around problems and solutions, programming and a lot of games. I mainly focus in Open Source, Web dev, Data structures and algorithms while I am still learning Game development as of 2026, since you opened up this About section, below are the fun things that you can try (˶˃ ᵕ ˂˶)
+Heyyy devss, Nandani here, 19 from India and my life revolves around problems and solutions, programming and a lot of games. I mainly focus in Open Source, Web dev, Data structures and algorithms while I am still learning Game development as of 2026.
+<!--, since you opened up this About section, below are the fun things that you can try (˶˃ ᵕ ˂˶)-->
 
 <br/>
 
