@@ -1,7 +1,10 @@
 
 <!-- header content -->
 <div align="center">
-<img src="src/scene.gif" style="max-width: 100%;" alt="" />
+<p align="center">
+<img width="10%" src="src/c14.gif">
+
+</p>
 </div>
 <br/>
 
