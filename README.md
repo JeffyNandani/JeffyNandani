@@ -34,7 +34,7 @@ Heyyy devss, Nandani here, 19 from India and my life revolves around problems an
   <p align="left">
 
 
-  <a href="https://instagram.com/nandani_dusad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandani_dusad" height="30" width="40" /></a>
+  <a href="https://instagram.com/nandani._.dusad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandani._.dusad" height="30" width="40" /></a>
 
   </p>
 </details>
