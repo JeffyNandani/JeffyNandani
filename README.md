@@ -2,6 +2,7 @@
 <!-- header content -->
 <div align="center">
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=100&color=F78603&repeat=false&width=450&lines=i_______;_i______;__i_____;___i____;____i___;_____i__;______i_;_______i;n______i;_n_____i;__n____i;___n___i;____n__i;_____n_i;______ni;a_____ni;_a____ni;__a___ni;___a__ni;____a_ni;_____ani;d____ani;_d___ani;__d__ani;___d_ani;____dani;n___dani;_n__dani;__n_dani;___ndani;a__ndani;_a_ndani;__andani;N_andani;_Nandani;Nandani;Nandani;Nandani!;Nandani;Nandani!;Nandani;Nandani!;Nandani;Nandani!;Nandani;Nandani!;Nandani;Nandani!" alt="Typing SVG" /></a>
 <img width="10%" src="src/c14.gif">
 
 </p>
