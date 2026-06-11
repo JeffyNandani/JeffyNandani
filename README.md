@@ -14,7 +14,7 @@
   <summary>More</summary>
   <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=more+things+about+krish+%3A-P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=more+things+about+Nandani+%3A-P)](https://git.io/typing-svg)
 
 
 Heyyy devss, Nandani here, 19 from India and my life revolves around problems and solutions, programming and a lot of games. I mainly focus in Open Source, Web dev, Data structures and algorithms while I am still learning Game development and some complex cryptography algorithms as of 2026, since you opened up this About section, below are the fun things that you can try (˶˃ ᵕ ˂˶)
@@ -28,15 +28,13 @@ Heyyy devss, Nandani here, 19 from India and my life revolves around problems an
   <summary>Connect</summary>
   <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=435&lines=krish+would+love+to+connect+%3A-P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=435&lines=Nandani+would+love+to+connect+%3A-P)](https://git.io/typing-svg)
  
   <p align="left">
 
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20447149/krish-lalwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20447149/krish-lalwani" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="krishealty" height="30" width="40" /></a>
-  <a href="https://dev.to/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishealty" height="30" width="40" /></a>
+
   <a href="https://instagram.com/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishealty" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/krishealty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krishealty" height="30" width="40" /></a>
+
   </p>
 </details>
 </div>
