@@ -5,10 +5,7 @@
 </div>
 <br/>
 
-<div align="center">
-<img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
-</div>
-<br/>
+
 <!-- About Section -->
 <details>
   <summary>More</summary>
@@ -97,4 +94,5 @@ Heyyy devss, Nandani here, 19 from India and my life revolves around problems an
 <td><img align="" width="" alt="🦑" src="/nichijou-anime-brasil (1).gif"></td>
 </tr>
 </table>
+
 
