@@ -22,6 +22,7 @@
 
 
 Heyyy devss, Nandani here, 19 from India and my life revolves around problems and solutions, programming and a lot of games. I mainly focus in Open Source, Web dev, Data structures and algorithms while I am still learning Game development as of 2026.
+THE END!<img width="100%" src="src/m1.gif">
 <!--, since you opened up this About section, below are the fun things that you can try (˶˃ ᵕ ˂˶)-->
 
 <br/>
@@ -51,7 +52,7 @@ Heyyy devss, Nandani here, 19 from India and my life revolves around problems an
 <summary>Skills</summary>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=550&lines=Nandani+wants+to+learn+new+skills+everyday+❀)](https://git.io/typing-svg)                  <img width="10%" src="src/c17.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=550&lines=Nandani+wants+to+learn+new+skills+everyday+❀)](https://git.io/typing-svg)                  <img width="20%" src="src/c17.gif">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,docker,git,py,react)](https://skillicons.dev)       
 
